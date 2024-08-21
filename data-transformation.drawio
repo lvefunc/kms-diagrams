@@ -1,9 +1,246 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="Jf72inBBAvcS__dGgjvy">
-    <mxGraphModel>
+    <mxGraphModel dx="1938" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d3z8FASGUd066R5uZWC9-1" value="&lt;i style=&quot;font-size: 12px;&quot;&gt;f&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;&lt;/span&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-2" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="400" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-3" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="299.77" as="sourcePoint" />
+            <mxPoint x="520" y="299.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=0;fontSize=12;" edge="1" parent="1" target="d3z8FASGUd066R5uZWC9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-5" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=0;fontSize=12;" edge="1" parent="1" target="d3z8FASGUd066R5uZWC9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="240" as="sourcePoint" />
+            <mxPoint x="540" y="319.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="120" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-7" value="&lt;i style=&quot;font-size: 12px;&quot;&gt;r&lt;sub style=&quot;font-size: 12px;&quot;&gt;1&lt;/sub&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-8" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;r&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-9" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;c&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-10" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;m&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-12" value="&lt;i style=&quot;font-size: 12px;&quot;&gt;f&lt;sub style=&quot;font-size: 12px;&quot;&gt;n1&lt;/sub&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="330" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="580" as="sourcePoint" />
+            <mxPoint x="330" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" target="d3z8FASGUd066R5uZWC9-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="660" as="sourcePoint" />
+            <mxPoint x="380" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1" target="d3z8FASGUd066R5uZWC9-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="520" as="sourcePoint" />
+            <mxPoint x="470" y="599.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-19" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;r&lt;sub style=&quot;font-size: 12px;&quot;&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="300" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-21" value="&lt;i style=&quot;font-size: 12px;&quot;&gt;f&lt;sub style=&quot;font-size: 12px;&quot;&gt;n2&lt;/sub&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="d3z8FASGUd066R5uZWC9-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="579.6199999999999" as="sourcePoint" />
+            <mxPoint x="430" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" target="d3z8FASGUd066R5uZWC9-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="680" as="sourcePoint" />
+            <mxPoint x="540" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1" target="d3z8FASGUd066R5uZWC9-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="540" as="sourcePoint" />
+            <mxPoint x="630" y="659.77" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-39" value="&lt;i style=&quot;font-size: 12px;&quot;&gt;Бизнес-процессы&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-42" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;c&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="90" y="860" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="880" as="sourcePoint" />
+            <mxPoint x="50" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-44" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="880" as="sourcePoint" />
+            <mxPoint x="150" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-45" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;c&lt;sub style=&quot;font-size: 12px;&quot;&gt;n1&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="30" y="920" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-46" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;c&lt;sub style=&quot;font-size: 12px;&quot;&gt;n2&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="150" y="920" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="900" as="sourcePoint" />
+            <mxPoint x="260" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-51" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;cat&lt;sub style=&quot;font-size: 12px;&quot;&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340" y="860" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-53" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="880" as="sourcePoint" />
+            <mxPoint x="300" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-54" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="880" as="sourcePoint" />
+            <mxPoint x="400" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-55" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;art&lt;sub style=&quot;font-size: 12px;&quot;&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="920" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-56" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;art&lt;sub style=&quot;font-size: 12px;&quot;&gt;2&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="920" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="960" as="sourcePoint" />
+            <mxPoint x="220" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-68" value="&lt;i style=&quot;font-size: 12px;&quot;&gt;q&lt;sub style=&quot;font-size: 12px;&quot;&gt;1&lt;/sub&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1090" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-69" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;q&lt;sub style=&quot;font-size: 12px;&quot;&gt;2&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1090" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="d3z8FASGUd066R5uZWC9-68" target="d3z8FASGUd066R5uZWC9-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1099.72" as="sourcePoint" />
+            <mxPoint x="190" y="1099.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-71" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;p&lt;sub style=&quot;font-size: 12px;&quot;&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1090" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="d3z8FASGUd066R5uZWC9-71" target="d3z8FASGUd066R5uZWC9-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="1110" as="sourcePoint" />
+            <mxPoint x="210" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-73" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Как я вижу приведение данных к структуризованному виду в нашей системе управления знаниями при внедрении на каком-либо предприятии и почему функциональная модель подходит как способ извлечения данных из предметной области с аргументацией:&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;1. Изначально мы имеем голые бизнес-процессы&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;2. Мы описываем бизнес-процессы в структурированном виде (при помощи функциональной модели), получая следующие результаты:&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;Набор входов и выходов&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;background-color: initial; font-size: 12px;&quot;&gt;(r&lt;sub style=&quot;font-size: 12px;&quot;&gt;1&lt;/sub&gt;, ..., r&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;Набор управлений (c&lt;sub style=&quot;font-size: 12px;&quot;&gt;1&lt;/sub&gt;, ..., c&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;Набор механизмов (m&lt;sub style=&quot;font-size: 12px;&quot;&gt;1&lt;/sub&gt;, ..., m&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;Функции, описывающие то, как входы, управления и механизмы конвертируются в выходы (f&lt;sub style=&quot;font-size: 12px;&quot;&gt;1&lt;/sub&gt;, ..., f&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;)&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;3. Система управления знаниями нужна для хранения данных в &lt;b style=&quot;font-size: 12px;&quot;&gt;структурированном виде&lt;/b&gt;. В системе в конечном этапе мы пытаемся привести данные к предикативной форме, т.е.:&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;субъект &amp;gt; предикат &amp;gt; объект&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;Утверждения в такой форме могут иметь значения истина или ложь. Пример простого утверждения в такой форме из нашей предметной области:&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;&quot;Siemens NX имеет интеграцию с Siemens Teamcenter&quot;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;В данном случае субъектом утверждения будет являться &quot;Siemens NX&quot;, предикатом - &quot;имеет интеграцию с&quot;, объектом - &quot;Siemens Teamcenter&quot;.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;В системе WikiData все данные представляются как &lt;b&gt;набор истинных утверждений&lt;/b&gt; в такой форме. Соответственно, субъект одного утверждения может являться объектом в другом, в результате чего на выходе мы получаем данные в виде &lt;b style=&quot;font-size: 12px;&quot;&gt;направленного графа&lt;/b&gt;.&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="260" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-74" value="&lt;i style=&quot;font-size: 12px;&quot;&gt;4. Соответственно &lt;b&gt;задачей является приведение данных к предикативной форме&lt;/b&gt; для работы с ними. Для этого, на основе иерархии входов, выходов, управлений и механизмов, мы формируем в системе структуру категорий, при том входы, выходы, управления, механизмы и функции самого нижнего уровня декомпозиции будут являться конкретными статьями.&lt;/i&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Например, механизмом верхнего уровня декомпозиции может являться &quot;Программное обеспечение&quot;, при том на самом нижнем уровне декомпозиции данный механизм будет детализирован до конкретного экземпляра, допустим, &quot;Siemens Teamcenter 11.6&quot;. В данном случае, &quot;Программное обеспечение&quot; будет являться одной из категорий высшего уровня, в то время как функция &quot;Создать набор данных&quot; в комбинации с механизмом нижнего уровня &quot;Siemens Teamcenter 11.6&quot; будет являться конкретной статьёй, а именно &quot;Создание набора данных в Siemens Teamcenter 11.6&quot;. Таким образом, мы изначально вносим данные о предметной области в систему, заполняем её, формируем списки экспертов и т.д., получая &lt;b style=&quot;font-size: 12px;&quot;&gt;промежуточную модель&lt;/b&gt;.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;background-color: initial; font-size: 12px;&quot;&gt;5. Система начинает функционировать как &lt;b&gt;минимально работоспособный продукт&lt;/b&gt;, для её работоспособности не требуется формирование модели базы данных и исключения связей многие-ко-многим, т.к. мы не пытаемся сформировать реляционную базу данных, а граф, в данной ситуации &lt;b style=&quot;font-size: 12px;&quot;&gt;функциональная модель самодостаточна&lt;/b&gt;. Пользователи начинают дополнять систему новыми статьями, допуская пересечение категорий, т.е. какая-то реальная статья может относится к множеству категорий.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;Абстрактным возможным примером подобной статьи из предметной области может являться &quot;Моделирование в Siemens NX под управлением Siemens Teamcenter, используя ГОСТ ...&quot;. Таким образом, логически статья может относится к различным категориям, является валидной, при том её было бы невозможно отобразить на функциональной модели.&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="570" y="10" width="270" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="d3z8FASGUd066R5uZWC9-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="619.77" as="sourcePoint" />
+            <mxPoint x="550" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-76" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;r&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="540" y="600" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-78" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;c&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="380" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-79" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;c&lt;sub style=&quot;font-size: 12px;&quot;&gt;n1&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-80" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;c&lt;sub style=&quot;font-size: 12px;&quot;&gt;n2&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="500" y="580" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-81" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;m&lt;sub style=&quot;font-size: 12px;&quot;&gt;n&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-82" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;m&lt;sub style=&quot;font-size: 12px;&quot;&gt;n2&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="500" y="640" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-83" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;m&lt;sub style=&quot;font-size: 12px;&quot;&gt;n1&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="375" y="600" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" target="d3z8FASGUd066R5uZWC9-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="610" as="sourcePoint" />
+            <mxPoint x="440" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-85" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;...&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="590" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-86" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-87" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="720" as="sourcePoint" />
+            <mxPoint x="280" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3z8FASGUd066R5uZWC9-88" value="&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;6. Далее, для приведения данных в системе к финальному структурированному виду нам требуется сформировать вышеописанный направленный граф, для этого мы &lt;b style=&quot;&quot;&gt;трансформируем все статьи и категории в системе в абстрактные элементы&lt;/b&gt;, используя движок WikiBase (используется в системе WikiData). В то время как &lt;b style=&quot;&quot;&gt;бывшие функции будут являться предикатами&lt;/b&gt;.&lt;/font&gt;&lt;/i&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Примером будет являться абстрактная статья, приведённая выше, &quot;Создание набора данных в Siemens Teamcenter 11.6&quot;.&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Определим элементы:&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&quot;Набор данных&quot; - q&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&quot;Siemens Teamcenter 11.6&quot; -&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;q&lt;sub&gt;2&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i&gt;Так, &lt;b&gt;предикатом&lt;/b&gt; в данном случае будет являться &quot;создаётся в&quot; - p&lt;sub&gt;1&lt;/sub&gt;.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Соответственно, результирующим утверждением будет являться &quot;Набор данных создаётся в Siemens Teamcenter 11.6&quot; (&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;q&lt;sub&gt;1&lt;/sub&gt;&amp;nbsp;&amp;gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;p&lt;sub&gt;1&lt;/sub&gt;&amp;nbsp;&amp;gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;q&lt;sub&gt;2&lt;/sub&gt;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;).&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Элемент &quot;Набор данных&quot; будет являться &lt;b&gt;субъектом&lt;/b&gt; утверждения, в то время как &quot;Siemens Teamcenter 11.6&quot; будет являться &lt;b&gt;объектом&lt;/b&gt; утверждения.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;В результате всех преобразований мы получаем данные в &lt;b&gt;структурированном виде&lt;/b&gt;.&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="400" height="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
